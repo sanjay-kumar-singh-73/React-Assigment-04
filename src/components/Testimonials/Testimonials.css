@@ -1,0 +1,15 @@
+/* src/components/Testimonials.css */
+.testimonial-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.main-div{
+    display: flex;
+}

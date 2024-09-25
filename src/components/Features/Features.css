@@ -1,0 +1,15 @@
+/* src/components/Features.css */
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.feature-card {
+    background-color: #b4a2a2;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    
+}
